@@ -1,1 +1,3 @@
 reglas
+solicitar pull request
+archivo modificado
