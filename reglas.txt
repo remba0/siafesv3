@@ -2,3 +2,4 @@ reglas
 solicitar pull request
 archivo modificado
 modificacion local
+modificacion remota
