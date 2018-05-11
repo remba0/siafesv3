@@ -1,5 +1,6 @@
 reglas
 solicitar pull request
 archivo modificado
+add al repositorio
 modificacion local
 modificacion remota
